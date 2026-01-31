@@ -2,8 +2,7 @@ git checkout main
 Switched to branch 'main'
 
 git merge bug-fix-typo
-Updating 3b2e4c1..7f9a123
-Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+README.md | 1 +
+1 file changed, 1 insertion(+)
+
 
