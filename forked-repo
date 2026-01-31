@@ -1,3 +1,5 @@
+curl -u ggautam8:<GITHUB_TOKEN> -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
 {
   "id": 1146789642,
   "node_id": "R_kgDORFqfCg",
